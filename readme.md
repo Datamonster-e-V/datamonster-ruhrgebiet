@@ -20,6 +20,7 @@ Wir möchten, dass alle Mitglieder einfach auf vergangene Sessions zugreifen und
 
 Jede Session bekommt ihren eigenen Ordner im Verzeichnis `/slides`:
 
+```
 /slides
 /2025-10-08_Fabric_Security_DeepDive_KlausHoeltgen
 ├── slides.pdf
@@ -27,6 +28,7 @@ Jede Session bekommt ihren eigenen Ordner im Verzeichnis `/slides`:
 /2025-10-08_DataAgent_RalphKemperdick
 ├── slides.pptx
 └── readme.md
+```
 
 
 👉 **Naming Convention:**  
